@@ -1,0 +1,22 @@
+.about-container {
+  display: flex;
+  margin: 20px 0;
+}
+.left {
+  width: 50%;
+  text-align: center;
+}
+.right {
+  width: 50%;
+}
+.icon {
+  display: inline;
+  padding: 4pxx;
+}
+.bg-img {
+  height: 300px;
+  width: 400px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px 30px;
+}

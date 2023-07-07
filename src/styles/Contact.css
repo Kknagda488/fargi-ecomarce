@@ -1,0 +1,76 @@
+.conatiner-con {
+  /* background-color: red; */
+  height: 150vh;
+  width: 100%;
+}
+.content-box {
+  margin-top: 80px;
+  /* background-color: yellow; */
+  color: rgb(87, 6, 87);
+  text-align: center;
+}
+.btn {
+  background-color: rgb(86, 23, 86);
+  margin: 40px;
+  width: 118px;
+  height: 60px;
+  color: white;
+  border-radius: 12px;
+  box-shadow: rgba(168, 59, 204, 0.35) 1px 5px 15px;
+}
+.btn a {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+a:hover {
+  color: rgb(228, 76, 76);
+  font-weight: 700;
+  font-size: 15px;
+}
+h1 {
+  margin: 10px;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(87, 6, 87);
+}
+span {
+  color: purple;
+  /* font-size: 4rem ; */
+}
+
+.container {
+  background-color: aquamarine;
+  height: 550px;
+  width: 70vw;
+  margin: 35px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 15px;
+  display: flex;
+  float: center;
+  align-items: center;
+  justify-content: center;
+
+  border: 2px solid black;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+input {
+  width: 60%;
+  font-weight: 600;
+  padding: 12px 20px;
+  margin: 6px 12px;
+  border-radius: 10px;
+  background-color: rgb(227, 154, 224);
+  color: black;
+  font-size: 20px;
+  box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.form {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}

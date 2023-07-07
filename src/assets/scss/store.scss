@@ -1,0 +1,21 @@
+.store {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 50px;
+  margin: 20px;
+  font-size: 23px;
+  > span {
+    color: purple;
+    /* font-size: 4rem ; */
+  }
+}
+.cartCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 14px;
+  border-radius: 5px;
+}
