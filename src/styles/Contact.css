@@ -39,24 +39,6 @@ span {
   /* font-size: 4rem ; */
 }
 
-.container {
-  background-color: aquamarine;
-  height: 550px;
-  width: 70vw;
-  margin: 35px;
-  margin: auto;
-  margin-top: 50px;
-  padding: 15px;
-  display: flex;
-  float: center;
-  align-items: center;
-  justify-content: center;
-
-  border: 2px solid black;
-  border-radius: 30px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
-
 input {
   width: 60%;
   font-weight: 600;
